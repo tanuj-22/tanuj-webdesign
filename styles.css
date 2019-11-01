@@ -1,0 +1,136 @@
+body{
+  margin: 0 0 0 0;
+  padding-bottom: 0;
+  text-align: center;
+  font-family: "Lato",sans-serif;
+  color: #40514E;
+  font-weight: 200;
+  line-height: 1.8;
+  font-size: 1.2rem;
+
+}
+.ac{
+  width: 40%;
+  margin:0 auto;
+}
+.contact-me{
+  width: 40%;
+  margin:
+  40px auto 60px;
+}
+h1{
+  margin: 0 auto 0 auto;
+  width: 20%;
+  font-family: "Sacramento",sans-serif;
+  font-size: 6.969rem;
+  color: #66bfbf;
+  padding: 0;
+  line-height: 1.2;
+
+}
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btnh{
+
+	box-shadow: 0 0 0 0 #9fb4f2;
+	background-color:#11999e;
+	border-radius:12px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+
+	font-size:20px;
+	font-weight:bold;
+	padding:14px 13px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.btnh:hover {
+	background-color:#23bdc2;
+}
+.btnh:active {
+	position:relative;
+	top:1px;
+}
+
+hr{
+border: dotted #939a9e 6px;
+border-bottom: none;
+width : 6%;
+}
+h2{
+color: #66bfbf;
+font-weight: normal;
+font-size: 2.69rem;
+}
+h3{
+  color: #11999e;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 200px;
+}
+.pro{
+  text-decoration: underline;
+}
+.new{
+  float: left;
+  padding: 0 30px 10px 30px;
+}
+.new2{
+  float:right;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+.profile{
+  padding-top: 5px;
+  padding-bottom: 110px;
+}
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container{
+margin: 100px 0;
+}
+.bottom-container{
+margin: 100px 0 0 0;
+padding:60px 0 30px;
+ background-color: #11999e ;
+}
+a{
+  color: #91b8b3 ;
+  border-width: 10rem;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+  padding: 50px 0;
+
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.top-cloud{
+  position: absolute;
+  top:50px;
+  right:250px;
+}
